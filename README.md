@@ -1,4 +1,4 @@
- ## Authors 
+ ## Author 
  DABHOLKAR NUZHAT 
  
 # Project Title
