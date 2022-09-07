@@ -1,0 +1,156 @@
+.logo{
+  position: fixed;
+  left: 50px;
+  top: 30px;
+  z-index: -2;
+}
+.list{
+  list-style: none;
+  font-size:1.1rem;
+  font-family:"Orbitron",sans-serif;
+}
+.list-item1{
+  position: fixed;
+  left: 451px;
+  top: 45px;
+  z-index: -2;
+}
+header{
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.list-item2{
+  position: fixed;
+  left: 541px;
+  top: 45px;
+  z-index: -2;
+}
+.list-item3{
+  position: fixed;
+  left: 631px;
+  top: 45px;
+  z-index: -2;
+}
+.list-item4{
+  position: fixed;
+  left: 741px;
+  top: 45px;
+  z-index: -2;
+}
+.list-item5{
+  position: fixed;
+  left: 821px;
+  top: 45px;
+  z-index: -2;
+}
+.search-icon{
+  position: fixed;
+  left: 1200px;
+  top: 45px;
+  z-index: -2;
+}
+.nav-button{
+  border: 2px solid black;
+  background-color: transparent;
+  width:85px;
+  height:25px;
+  border-radius: 9px;
+  position: fixed;
+  left: 1233px;
+  top: 44px;
+  z-index: -2; 
+}
+.list{
+  position: fixed;
+  left: 200px;
+  top: 20px;
+  z-index: -2;
+}
+.square {
+  position: fixed;
+  left: 200px;
+  top: 260px;
+  z-index: -1;
+}
+.element {
+  position: fixed;
+  left: 50px;
+  top: 160px;
+  z-index: 2;
+}
+.star {
+  position: fixed;
+  left: 1200px;
+  top: 150px;
+  z-index: 3;
+}
+.globe {
+  position: fixed;
+  left: 730px;
+  top: 120px;
+  z-index: 3;
+}
+.hero-container-right {
+  position: fixed;
+  left: 500px;
+  top: 200px;
+  z-index: 3;
+}
+.hero-heading {
+  font-size: 4rem;
+  font-family: "Poppins", sans-serif;
+  position: fixed;
+  left: 550px;
+  top: 180px;
+  z-index: 3;
+}
+.hero-description {
+  position: fixed;
+  left: 625px;
+  top: 305px;
+  color: grey;
+  z-index: 3;
+}
+.button-email {
+  font-family: "Poppins", sans-serif;
+  background-color: transparent;
+  color: #373737;
+  border: 2px solid #373737;
+  border-radius: 5px;
+  position: fixed;
+  left: 775px;
+  top: 380px;
+  z-index: 3;
+  margin-left: 50px;
+  margin-top: 2rem;
+}
+.button-join {
+  font-family: "Poppins", sans-serif;
+  background-color: black;
+  color: #fff;
+  border-radius: 5px; 
+  position: fixed;
+  left: 895px;
+  top: 380px;
+  margin-left: 50px;
+  margin-top: 2rem;
+  z-index: 3;
+}
+.contact-heading{
+  position: fixed;
+  left: 860px;
+  top: 480px;
+  z-index: 3;
+}
+.icons{
+  position: fixed;
+  left: 830px;
+  top: 540px;
+  z-index: 3;
+}
+.second-star{
+  position: fixed;
+  left: 550px;
+  top: 550px;
+  z-index: 3; 
+}
